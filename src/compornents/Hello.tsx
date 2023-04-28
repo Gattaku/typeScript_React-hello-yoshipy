@@ -6,6 +6,7 @@ type HelloProps = { //受け取るPropsの値すべての型を定義してお�
         message: string;
     }
     isAuth: boolean;
+    //
 }
 
 const Hello = (props: HelloProps) => {
