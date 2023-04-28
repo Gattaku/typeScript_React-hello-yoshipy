@@ -4,6 +4,7 @@ type HelloProps = {
         a: number;
         b: number;
         message: string;
+        //
     }
     isAuth: boolean;
 }
